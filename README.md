@@ -12,7 +12,7 @@ My Lab: [DCXR](https://craigyulab.wordpress.com/code/)
 Github: [Click Here](https://github.com/quincyhuang/DCXRKit)
 
 
-# [Inifile](https://github.com/quincyhuang/DCXRKit/tree/master/Doc/Inifile) 
+# [Inifile](./Doc/Inifile) 
 **Inifile** helps to read and write a flexible and user-customized data structure from and into a plain file. This tool contains a rich set of APIs to help you to read and write the most Unity C#  basic data type from and into a given plain file. You can also easily extend the basic APIs to write your own extension APIs to read and write any data type.
 
 # [CSV Reader](https://github.com/quincyhuang/DCXRKit/tree/master/Doc/CSVReader)
