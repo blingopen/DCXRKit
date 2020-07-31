@@ -7,7 +7,7 @@ Author: [Haikun Huang](https://quincyhuang.github.io/Webpage/index.html)
 
 My Lab: [DCXR](https://craigyulab.wordpress.com/code/)
 
-Github: [Click Here](../../)
+Github: [Click Here](https://github.com/quincyhuang/DCXRKit)
 
 
 This tool helps to read and write a flexible and user-customized data structure from and into a plain file. This tool contains a rich set of APIs to help you to read and write the most Unity C#  basic data type from and into a given plain file. You can also easily extend the basic APIs to write your own extension APIs to read and write any data type.

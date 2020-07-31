@@ -7,7 +7,7 @@ Author: [Haikun Huang](https://quincyhuang.github.io/Webpage/index.html)
 
 My Lab: [DCXR](https://craigyulab.wordpress.com/code/)
 
-Github: [Click Here](https://github.com/quincyhuang/UPython)
+Github: [Click Here](https://github.com/quincyhuang/DCXRKit)
 
 
 
@@ -86,7 +86,7 @@ A use case example, just run it and see what happen.
 ![](5.png)
 
 ## 5.UPlot
-A example of plot a figure in UPython. More detail please see the example in UPython. 
+An example of plot a figure in UPython. More detail please see the example in UPython. 
 This is a helper class of UPython.
 ![](6.png)
 
