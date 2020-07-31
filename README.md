@@ -9,7 +9,7 @@ Author: [Haikun Huang](https://quincyhuang.github.io/Webpage/index.html)
 
 My Lab: [DCXR](https://craigyulab.wordpress.com/code/)
 
-Github: [Click Here](https://github.com/quincyhuang/DCXRKit)
+Github: [Click Here](./)
 
 
 # [Inifile](./Doc/Inifile) 

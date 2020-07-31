@@ -7,7 +7,7 @@ Author: [Haikun Huang](https://quincyhuang.github.io/Webpage/index.html)
 
 My Lab: [DCXR](https://craigyulab.wordpress.com/code/)
 
-Github: [Click Here](https://github.com/quincyhuang/DCXRKit)
+Github: [Click Here](../../)
 
 
 This tool helps to read and write a flexible and user-customized data structure from and into a plain file. This tool contains a rich set of APIs to help you to read and write the most Unity C#  basic data type from and into a given plain file. You can also easily extend the basic APIs to write your own extension APIs to read and write any data type.
@@ -23,8 +23,7 @@ The **Section** is a collection of **k&v pairs**, the **k&v pair** is used to re
 
 
 # Quick Start
-![](1.png)
-This figure shows the most important APIs of using the **Inifile** class. More details please see the examples inside the tool.
+Please see the examples inside the tool.
 
 # How does it work?
 The **Inifile** class works like a state machine. It has an internal curser always pointing to the current **Section**, which means, all the actions are under the current **Section**.  The API **‌Goto_Section()** helps you to switch the **Sections**. 
@@ -60,8 +59,7 @@ The **Inifile** class works like a state machine. It has an internal curser alwa
 >public string[] Get_All_Pair_Names();
 >public string[] Get_All_Pair_Values()
 
-## More functions are list below:
-![](3.png)
+## More functions please refer to source code.
 
 
 # Advantages

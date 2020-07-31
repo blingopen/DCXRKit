@@ -7,7 +7,7 @@ Author: [Haikun Huang](https://quincyhuang.github.io/Webpage/index.html)
 
 My Lab: [DCXR](https://craigyulab.wordpress.com/code/)
 
-Github: [Click Here](https://github.com/quincyhuang/DCXRKit)
+Github: [Click Here](../../)
 
 **CSV Reader** is a helper tool helps you to read the csv files. 
 
@@ -18,7 +18,7 @@ It is easy and simple to use.
 * Read the data by the column name.
 * Move the cursor to next row
 * Keep reading the data, until the end of the file.
-
+  
 ![](1.png)
 
 More details please see the example inside the tool.
