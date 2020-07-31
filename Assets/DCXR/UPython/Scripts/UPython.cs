@@ -23,7 +23,7 @@ namespace DCXR
     public class UPython : MonoBehaviour
     {
         // need to be modified, point the python to your local python program.
-        static public string python_program = "/Users/haikunhuang/anaconda3/bin/python";
+        static public string python_program = "python";
 
         Process proc;
         ProcessStartInfo startInfo;
