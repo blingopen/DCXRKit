@@ -3,7 +3,7 @@ MIT License.
 
 Unity 2019.x tested.
 
-Author: [Haikun Huang](https://www.quincyhuanghk.com)
+Author: [Haikun Huang](https://quincyhuang.github.io/Webpage/index.html)
 
 My Lab: [DCXR](https://craigyulab.wordpress.com/code/)
 
@@ -27,7 +27,7 @@ Here is the quick start introduction:
 
 * Open the **UPython.cs** file, and change the variable **python_program**, make sure the **python_program** is pointing to your local python program, e.g.,
 
->static public string python_program = "/Users/haikunhuang/anaconda3/bin/python";
+>static public string python_program = "python";
 
 * You are ready to go.
 
@@ -85,6 +85,11 @@ Input your python code in the input box and click Run. The result will show in t
 A use case example, just run it and see what happen.
 ![](5.png)
 
+## 5.UPlot
+A example of plot a figure in UPython. More detail please see the example in UPython. 
+This is a helper class of UPython.
+![](6.png)
+
 # Advantages
 * Easy to integrate your work between Unity and Python.
 * UPython Embeds all the variables into the Python code. So you don’t need to care how to pass the variables to the external Python code.
@@ -92,6 +97,5 @@ A use case example, just run it and see what happen.
 
 # Limitations
 * Low performance.
-* Looks stupid.  
-
+* High latency. 
 

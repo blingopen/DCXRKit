@@ -3,7 +3,7 @@ MIT License.
 
 Unity 2019.x tested.
 
-Author: [Haikun Huang](https://www.quincyhuanghk.com)
+Author: [Haikun Huang](https://quincyhuang.github.io/Webpage/index.html)
 
 My Lab: [DCXR](https://craigyulab.wordpress.com/code/)
 
