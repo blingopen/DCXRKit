@@ -64,7 +64,10 @@ Here is the quick start introduction:
 
 * Run the python script.
   If the callback function is not null, then the callback function will be invoked when the python script is done.
->public void Run(string args ="", UnityAction callback = null);
+* * Build and run the python file.
+	>public void BuildAndRun(string args ="", UnityAction callback = null)
+* * Run the specified python file from local. Note that, this function would not build any new python file.
+	>public void RunFromFile(string args = "", UnityAction callback = null)
 
 # Examples
 ## 1. HelloWorld
