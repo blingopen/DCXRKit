@@ -35,7 +35,7 @@ Here is the quick start introduction:
 * The folder used to store the python files UPython generated. 
 >public string runningFolder = "../Python";
 
-* The file used to store the python files UPython generated. 
+* The file used to store the python files UPython generated and/or run this file on local by calling RunFromFile(). 
 >public string runningFile = "demo.py";
 
 * If shows the debug info at console.
