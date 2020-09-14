@@ -9,6 +9,7 @@ Author: [Haikun Huang](https://quincyhuang.github.io/Webpage/index.html)
 
 Github: [Click Here](https://github.com/quincyhuang/DCXRKit)
 
+**You can find the package in “Asset/Bin/DCXR“**
 
 # [Inifile](./Doc/Inifile) 
 **Inifile** helps to read and write a flexible and user-customized data structure from and into a plain file. This tool contains a rich set of APIs to help you to read and write the most Unity C#  basic data type from and into a given plain file. You can also easily extend the basic APIs to write your own extension APIs to read and write any data type.
