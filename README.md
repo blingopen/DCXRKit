@@ -1,4 +1,29 @@
-# DCXR Kit
+# New Version
+[See Here](https://assetstore.unity.com/publishers/48420)
+
+## UPython2
+
+Availiable on Unity Asset Store 
+Essentially, it is a tool that bridges Unity and Python.
+Unlike the first generation, this update applies multi-threading and asynchronous calling features, which makes UPyhon2 supports running multiple independent Python programs simultaneously.
+
+## IniDatabase
+
+Availiable on Unity Asset Store 
+This tool helps to manage a flexible and user-customized data structure database.
+This tool contains a rich set of APIs to help you read/write the most Unity C# primary data type. You can also easily extend the basic APIs to write your extension APIs to read and write any data type. More, this tool also supports the read/write the database from/into a file.
+This tool can manage multiple databases at the same time. You can use different databases in combination to meet your needs.
+
+## CSVManager
+
+Availiable on Unity Asset Store 
+CSV Manager upgraded from CSV Reader.
+CSV Manager can handle multiply CSV tables at the same time. It supports reading a CSV file from HD, creating your CSV table by C#, and output it to a CSV file to HD.
+
+
+
+
+# DCXR Kit (Deprecated)
 ***The full documents are under the Doc folder.*** 
 
 MIT License.
