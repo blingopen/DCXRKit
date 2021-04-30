@@ -1,5 +1,5 @@
 # New Version
-[See Here](https://assetstore.unity.com/publishers/48420)
+[Download](https://assetstore.unity.com/publishers/48420)
 
 ## UPython2
 
